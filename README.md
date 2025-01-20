@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vincent Benedict</h1>
-<h3 align="center">A passionate Software developer and Machine Learning from Indonesia</h3>
+<h3 align="center">An experienced Software Developer and Machine Learning Specialist from Indonesia</h3>
 
 - 🌱 I’m currently learning **Deep Learning**
 
