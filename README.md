@@ -18,7 +18,6 @@
 
 <!-- About Me -->
 ### About Me
-- 🌱 I’m currently learning **Deep Learning**  
 - 📫 How to reach me: **vincentbenedict29@gmail.com**
 
 ---
