@@ -17,11 +17,15 @@
 
 ### 💼 ғᴇᴀᴛᴜʀᴇᴅ ᴘʀᴏᴊᴇᴄᴛs:
 <p>
-    <a href="https://github.com/vincentbmw/NFT-Marketplace" />
+    <a href="https://github.com/vincentbmw/NFT-Marketplace">
+        <img src="https://img.shields.io/badge/🖼️-NFT%20Marketplace-FF6B6B?style=for-the-badge" />
+    </a>
     <a href="https://github.com/vincentbmw/PawspectiveProject">
         <img src="https://img.shields.io/badge/🐾-Pawspective%20Project-4ECDC4?style=for-the-badge" />
     </a>
-    <a href="https://github.com/vincentbmw/ImageDataRetrieval-in-Telegram-Bot" />
+    <a href="https://github.com/vincentbmw/ImageDataRetrieval-in-Telegram-Bot">
+        <img src="https://img.shields.io/badge/🤖-Image%20Data%20Retrieval-FFA500?style=for-the-badge" />
+    </a>
     <a href="https://github.com/vincentbmw/Sarcasme-Detection">
         <img src="https://img.shields.io/badge/🤖-Sarcasm%20Detection-45B7D1?style=for-the-badge" />
     </a>
