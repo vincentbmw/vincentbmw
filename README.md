@@ -48,13 +48,6 @@
 </details>
 
 <details>
-    <summary>&#127942 <b>ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴠɪᴛʏ</b></summary><br/>
-
-![Metrics](https://metrics.lecoq.io/vincentbmw?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
-
-</details>
-
-<details>
     <summary>📊 <b>ʟᴀɴɢᴜᴀɢᴇ sᴛᴀᴛs</b></summary><br/>
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentbmw&layout=compact&hide_border=true&title_color=000)
