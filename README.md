@@ -1,207 +1,64 @@
-<!-- Title and Short Description -->
-<h1 align="center">Hi 👋, I'm Vincent Benedict</h1>
-<h3 align="center">
-  Software Engineer, Cloud & Machine Learning Enthusiast | Interested in Distributed Systems & Microservices | Computer Science Student
-</h3>
+# ʜɪ ᴛʜᴇʀᴇ 👋 , ɪ'ᴍ ᴄᴇɴᴛ
 
-<!-- Trophies -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=vincentbmw&theme=onedark&row=1&column=7" 
-      alt="Trophies" 
-    />
-  </a>
+### ᴛᴏᴏʟs:
+<p>
+    <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
+    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
+    <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
----
-
-<!-- About Me -->
-### About Me
-- 📫 How to reach me: **vincentbenedict29@gmail.com**
-
----
-
-<!-- Connect With Me -->
-### Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/vincent-benedict" target="_blank">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-      alt="linkedin" 
-      height="30" 
-      width="40" 
-    />
-  </a>
-  <a href="https://instagram.com/cent29_" target="_blank">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-      alt="instagram" 
-      height="30" 
-      width="40" 
-    />
-  </a>
+### 🚀 ᴛᴇᴄʜɴᴏʟᴏɢɪᴇs & ʟᴀɴɢᴜᴀɢᴇs:
+<p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
----
+### 💼 ғᴇᴀᴛᴜʀᴇᴅ ᴘʀᴏᴊᴇᴄᴛs:
+<p>
+    <a href="https://github.com/vincentbmw/NFT-Marketplace">
+        <img src="https://img.shields.io/badge/🎨-NFT%20Marketplace-FF6B6B?style=for-the-badge" />
+    </a>
+    <a href="https://github.com/vincentbmw/PawspectiveProject">
+        <img src="https://img.shields.io/badge/🐾-Pawspective%20Project-4ECDC4?style=for-the-badge" />
+    </a>
+    <a href="https://github.com/vincentbmw/Sarcasme-Detection">
+        <img src="https://img.shields.io/badge/🤖-Sarcasm%20Detection-45B7D1?style=for-the-badge" />
+    </a>
+</p>
 
-<!-- Languages and Tools -->
-### Languages and Tools
-<p align="left">
-  <!-- Android -->
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" 
-      alt="android" 
-      width="40" 
-      height="40"
-    />
-  </a>
-  <!-- Arduino -->
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img 
-      src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" 
-      alt="arduino" 
-      width="40" 
-      height="40"
-    />
-  </a>
-  <!-- AWS -->
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-      alt="aws" 
-      width="40" 
-      height="40"
-    />
-  </a>
-  <!-- C -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
-      alt="c" 
-      width="40" 
-      height="40"
-    />
-  </a>
-  <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
-      alt="cplusplus" 
-      width="40" 
-      height="40"
-    />
-  </a>
-  <!-- CSS3 -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
-      alt="css3" 
-      width="40" 
-      height="40"
-    />
-  </a>
-  <!-- Express -->
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" 
-      alt="express" 
-      width="40" 
-      height="40"
-    />
-  </a>
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img 
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" 
-      alt="figma" 
-      width="40" 
-      height="40"
-    />
-  </a>
-  <!-- Firebase -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img 
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" 
-      alt="firebase" 
-      width="40" 
-      height="40"
-    />
-  </a>
-  <!-- Flutter -->
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img 
-      src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" 
-      alt="flutter" 
-      width="40" 
-      height="40"
-    />
-  </a>
-  <!-- GCP -->
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img 
-      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" 
-      alt="gcp" 
-      width="40" 
-      height="40"
-    />
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img 
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
-      alt="git" 
-      width="40" 
-      height="40"
-    />
-  </a>
-  <!-- Go -->
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" 
-      alt="go" 
-      width="40" 
-      height="40"
-    />
-  </a>
-  <!-- GraphQL -->
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img 
-      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" 
-      alt="graphql" 
-      width="40" 
-      height="40"
-    />
-  </a>
-  <!-- Heroku -->
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img 
-      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" 
-      alt="heroku" 
-      width="40" 
-      height="40"
-    />
-  </a>
-  <!-- HTML5 -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
-      alt="html5" 
-      width="40" 
-      height="40"
-    />
-  </a>
-  <!-- Java -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
-      alt="java" 
-      width="40" 
-      height="40"
-    />
-  </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons
+### <img src="https://media.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif" width="50"> sᴛᴀᴛs:
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=vincentbmw&hide=issues&show_icons=true&hide_border=true&title_color=000" />
+</p>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ:
+<p>
+    <a href="https://www.linkedin.com/in/vincent-benedict/" target="blank"><img src="https://img.icons8.com/nolan/55/linkedin.png" /></a>
+    <a href="https://www.instagram.com/vincentbenedict0/" target="blank"><img src="https://img.icons8.com/nolan/55/instagram-new.png" /></a>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<details>
+    <summary>&#127942 <b>ɢɪᴛʜᴜʙ ᴀᴡᴀʀᴅs</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=vincentbmw&margin-w=5&margin-h=5)
+
+</details>
+
+<details>
+    <summary>&#127942 <b>ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴠɪᴛʏ</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/vincentbmw?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+
+</details>
+
+<details>
+    <summary>📊 <b>ʟᴀɴɢᴜᴀɢᴇ sᴛᴀᴛs</b></summary><br/>
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentbmw&layout=compact&hide_border=true&title_color=000)
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
