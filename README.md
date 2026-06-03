@@ -17,9 +17,7 @@ Full-stack developer · Python · JavaScript · Java · Go
 
 **Stats & Activity**
 
-![Stats](https://github-readme-stats.vercel.app/api?username=vincentbmw&show_icons=true&hide_border=true&count_private=true)
-
-![Streak](https://streak-stats.demolab.com?user=vincentbmw&hide_border=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vincentbmw&hide_border=true&theme=minimal)](https://github.com/vincentbmw)
 
 ---
 
