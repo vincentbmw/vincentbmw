@@ -1,60 +1,39 @@
-# ʜɪ ᴛʜᴇʀᴇ 👋 , ɪ'ᴍ ᴄᴇɴᴛ
+### Hey, I'm Cent 👋
 
-### ᴛᴏᴏʟs:
+Full-stack developer · Python · JavaScript · Java · Go
+
+---
+
+**Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+**Stats & Activity**
+
 <p>
-    <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
-    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
-    <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vincentbmw&show_icons=true&hide_border=true&hide=issues&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincentbmw&layout=compact&hide_border=true" />
 </p>
 
-### 🚀 ᴛᴇᴄʜɴᴏʟᴏɢɪᴇs & ʟᴀɴɢᴜᴀɢᴇs:
-<p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-</p>
+---
 
-### 💼 ғᴇᴀᴛᴜʀᴇᴅ ᴘʀᴏᴊᴇᴄᴛs:
-<p>
-    <a href="https://github.com/vincentbmw/NFT-Marketplace">
-        <img src="https://img.shields.io/badge/🖼️-NFT%20Marketplace-FF6B6B?style=for-the-badge" />
-    </a>
-    <a href="https://github.com/vincentbmw/PawspectiveProject">
-        <img src="https://img.shields.io/badge/🐾-Pawspective%20Project-4ECDC4?style=for-the-badge" />
-    </a>
-    <a href="https://github.com/vincentbmw/ImageDataRetrieval-in-Telegram-Bot">
-        <img src="https://img.shields.io/badge/🤖-Image%20Data%20Retrieval-FFA500?style=for-the-badge" />
-    </a>
-    <a href="https://github.com/vincentbmw/Sarcasme-Detection">
-        <img src="https://img.shields.io/badge/🤖-Sarcasm%20Detection-45B7D1?style=for-the-badge" />
-    </a>
-</p>
+**Featured Projects**
 
-### <img src="https://media.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif" width="50"> sᴛᴀᴛs:
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=vincentbmw&hide=issues&show_icons=true&hide_border=true&title_color=000" />
-</p>
+- [NFT Marketplace](https://github.com/vincentbmw/NFT-Marketplace)
+- [Pawspective Project](https://github.com/vincentbmw/PawspectiveProject)
+- [Image Data Retrieval Bot](https://github.com/vincentbmw/ImageDataRetrieval-in-Telegram-Bot)
+- [Sarcasm Detection](https://github.com/vincentbmw/Sarcasme-Detection)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ:
-<p>
-    <a href="https://www.linkedin.com/in/vincent-benedict/" target="blank"><img src="https://img.icons8.com/nolan/55/linkedin.png" /></a>
-    <a href="https://www.instagram.com/vincentbenedict0/" target="blank"><img src="https://img.icons8.com/nolan/55/instagram-new.png" /></a>
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<details>
-    <summary>&#127942 <b>ɢɪᴛʜᴜʙ ᴀᴡᴀʀᴅs</b></summary><br/>
+**Connect**
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=vincentbmw&margin-w=5&margin-h=5)
-
-</details>
-
-<details>
-    <summary>📊 <b>ʟᴀɴɢᴜᴀɢᴇ sᴛᴀᴛs</b></summary><br/>
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentbmw&layout=compact&hide_border=true&title_color=000)
-
-</details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-benedict/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/vincentbenedict0/)
