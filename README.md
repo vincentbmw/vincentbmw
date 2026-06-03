@@ -17,7 +17,8 @@ Full-stack developer · Python · JavaScript · Java · Go
 
 **Stats & Activity**
 
-[![Contribution Graph](https://ghchart.rshah.org/vincentbmw)](https://github.com/vincentbmw)
+![Snake animation](https://raw.githubusercontent.com/vincentbmw/vincentbmw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation](https://raw.githubusercontent.com/vincentbmw/vincentbmw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
